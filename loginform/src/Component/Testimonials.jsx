@@ -53,12 +53,12 @@ const filterDownArray = companyNames.filter(names=> names.type==="down")
     <div className='flex gap-3 box-content'>
     <p className='font-bold text-[50px]'>Join </p> 
     <div className='overflow-hidden h-20'>
-     <span className='animate-wiggle block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800000</span>
-     <span className='animate-wiggle block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800001</span>
-     <span className='animate-wiggle block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800002</span>
-     <span className='animate-wiggle block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800003</span>
-     <span className='animate-wiggle block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800004</span>
-     <span className='animate-wiggle block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800000</span>
+     <span className='animate-rotate_text block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800000</span>
+     <span className='animate-rotate_text block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800001</span>
+     <span className='animate-rotate_text block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800002</span>
+     <span className='animate-rotate_text block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800003</span>
+     <span className='animate-rotate_text block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800004</span>
+     <span className='animate-rotate_text block font-bold text-[50px] bg-gradient-to-r from-[#F5C05A] via-[#EB88B1] to-[#6CAFFF] text-transparent bg-clip-text'>800000</span>
      </div>
       <p className='font-bold text-[50px]'>People</p>
     </div>

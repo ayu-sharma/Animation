@@ -3,11 +3,16 @@ module.exports = {
   theme: {
     extend: {
       animation: {
-        wiggle: 'spin_words 8s infinite',
+        // text rotating animation
+        rotate_text: 'spin_words 8s infinite',
+
+
         cursor: 'cursor .4s step-end infinite alternate',
         typing: 'typing 2s steps(42)'
       },
       keyframes: {
+
+        // text rotating keyframes
         spin_words: {
           '10%': { transform: 'translateY(-112%)' },
           '20%': { transform: 'translateY(-100%)' },
@@ -20,6 +25,8 @@ module.exports = {
           '90%':{ transform: 'translateY(-512%)'},
           '100%':{ transform: 'translateY(-500%)'},
            },
+
+          
            cursor: {
             '50%': {'border-color': 'transparent'}
           },
